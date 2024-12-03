@@ -24,7 +24,7 @@ The ticketing system should be user-friendly and efficient.
 
 ### **User Story 1: Raise a Ticket**  
 - A resident can create a ticket with mandatory fields like issue description and apartment number.  
-- The system prevents submission of tickets with missing mandatory fields.  
+- The system prevents the submission of tickets with missing mandatory fields.  
 - The system sends a confirmation notification to the resident after ticket submission.  
 - Duplicate tickets for the same issue cannot be created within a set timeframe.  
 
