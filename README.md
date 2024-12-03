@@ -77,16 +77,4 @@ The ticketing system should be user-friendly and efficient.
   - To "Resolved" when the issue is fixed, with resolution notes added.  
 - The system sends notifications to the lease office staff and the resident about the status update.  
 
----
-
-## **Submission Instructions**  
-1. Create the following diagrams:  
-   - Project Context Diagram  
-   - Use Case Diagram  
-   - User Story Map  
-
-2. Write the acceptance criteria and main scenarios for three major user stories.  
-
-3. Check your work into your project's GitHub repository.  
-
-4. Submit the GitHub repository link as part of your assignment submission.  
+---  
