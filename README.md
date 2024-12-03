@@ -15,8 +15,6 @@ The ticketing system should be user-friendly and efficient.
 
 ---
 
----
-
 ## **Diagrams**
 
 ### **1. Project Context Diagram**
