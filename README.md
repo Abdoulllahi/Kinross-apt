@@ -33,6 +33,14 @@ The Use Case Diagram highlights the system's primary actors and their interactio
 
 ---
 
+### **3. User Story Map**
+
+The User Story Map organise user stories into structured layout.
+
+![Use Case Diagram](UserStoriesMap.png)
+
+---
+
 ## **User Stories**  
 
 1. As a resident, I want to raise maintenance tickets so that issues in my apartment can be resolved efficiently.  
